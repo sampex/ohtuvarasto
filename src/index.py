@@ -1,3 +1,5 @@
+# pylint: disable=R0915
+
 from varasto import Varasto
 
 
